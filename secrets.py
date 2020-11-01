@@ -1,0 +1,4 @@
+spotify_token = "BQBko7Fspc6LCTBBwTeDIQbpFC92n-2hZS8pfxNl1Uwk7fiCxgPNpFRiEpO33HUbCKLt-FBh6kKtxSN1euFl2SnPtsMJyovG5z2s8O5ohS_ydFPAOkoYY18GelggFt0eBYwZg3wAC_WqP6PEMyr0hmujkPa-EvObgqA7_G1fJt8YTuznKZhNOkogHO67y2ywvMPeh9DvY_bYGnEHsJdYxrE3KB4eyl4"
+spotify_user_id = "8xeabdapfw6quswpz8ywcmk5f"
+discover_weekly_id = "37i9dQZEVXcO7fCO2mPJ3W"
+
